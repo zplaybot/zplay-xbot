@@ -1,0 +1,6 @@
+owner=339139148361498626
+prefix=z
+game=zplay
+stayinchannel=true
+songinstatus=false
+token=NTczOTIyMjk4MzAyNTYyMzI0.XMx55g.cyzLMfFUYUhzGNbOZr9gpcdTf5A
